@@ -15,7 +15,7 @@ The Medicare Web App facilitates seamless patient interaction with healthcare pr
 - **Frontend**: HTML, CSS, JavaScript, ReactJS  
 - **Backend**: Spring Boot, Maven  
 - **Security**: Spring Security  
-- **Database**: Integrated for efficient storage and retrieval of data  
+- **Database**: Integrated for efficient storage and retrieval of data with Postgreal Database 
 
 ---
 
